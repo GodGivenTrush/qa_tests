@@ -1,0 +1,407 @@
+{
+    "hurry": {
+        "name": "Hurry!",
+        "icon": "https://s3.amazonaws.com/owg/hurry/icon.jpg",
+        "screenshot": "https://s3.amazonaws.com/owg/hurry/reference.png",
+        "url": "https://s3.amazonaws.com/owg/hurry/index.html",
+        "width": 1117,
+        "height": 768,
+        "features": [
+            "canvas",
+            "domLevel3"
+        ],
+        "folderSize": 2712,
+        "timeout": 120000,
+        "credits": [
+            {
+                "category": "Hugh Kennedy",
+                "name": "Hurry!",
+                "url": "https://github.com/hughsk/ludum-dare-27",
+                "$$hashKey": "object:64"
+            }
+        ],
+        "mobileTest": true,
+        "mobileDemo": false,
+        "desktopTest": true,
+        "desktopDemo": false,
+        "fullscreen": false,
+        "status": "success",
+        "startTime": 19299062.675,
+        "timer": "00:32",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 9805
+        },
+        "stopTime": 19331461.98,
+        "results": {
+            "totalTime": 33531,
+            "wrongPixels": 34,
+            "result": "PASS",
+            "cpuTime": 4358,
+            "cpuIdle": 0.8700381978762121,
+            "fps": 59.646902267954175,
+            "pageLoadTime": 3545.7250000000004,
+            "numStutterEvents": 47
+        }
+    },
+    "medusae": {
+        "name": "Medusae",
+        "icon": "https://s3.amazonaws.com/owg/medusae/icon.jpg",
+        "screenshot": "https://s3.amazonaws.com/owg/medusae/reference.png",
+        "url": "https://s3.amazonaws.com/owg/medusae/index.html",
+        "width": 1366,
+        "height": 768,
+        "features": [
+            "webGl"
+        ],
+        "folderSize": 9328,
+        "timeout": 120000,
+        "credits": [
+            {
+                "category": "Jay Weeks",
+                "name": "Medusae",
+                "url": "https://github.com/jpweeks/particulate-medusae",
+                "$$hashKey": "object:80"
+            }
+        ],
+        "mobileTest": true,
+        "mobileDemo": true,
+        "desktopTest": true,
+        "desktopDemo": true,
+        "fullscreen": true,
+        "status": "success",
+        "startTime": 19335121.875,
+        "timer": "00:24",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 9938
+        },
+        "stopTime": 19359815.825,
+        "results": {
+            "totalTime": 25710,
+            "wrongPixels": 5,
+            "result": "PASS",
+            "cpuTime": 2827,
+            "cpuIdle": 0.8900314337040184,
+            "fps": 58.34381739318657,
+            "pageLoadTime": 1439.73,
+            "numStutterEvents": 56
+        }
+    },
+    "alphabear": {
+        "name": "Alphabear",
+        "icon": "https://s3.amazonaws.com/owg/alphabear/icon.jpg",
+        "screenshot": "https://s3.amazonaws.com/owg/alphabear/reference.png",
+        "url": "https://s3.amazonaws.com/owg/alphabear/index.html",
+        "width": 1366,
+        "height": 768,
+        "features": [
+            "webGl",
+            "domLevel3"
+        ],
+        "folderSize": 51968,
+        "timeout": 120000,
+        "credits": [
+            {
+                "category": "SpryFox",
+                "name": "Alphabear",
+                "url": "http://spryfox.com/our-games/alphabear/",
+                "$$hashKey": "object:84"
+            }
+        ],
+        "mobileTest": false,
+        "mobileDemo": false,
+        "desktopTest": true,
+        "desktopDemo": true,
+        "fullscreen": false,
+        "status": "success",
+        "startTime": 19394058.715,
+        "timer": "00:32",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 10580
+        },
+        "stopTime": 19427652.03,
+        "results": {
+            "totalTime": 37202,
+            "wrongPixels": null,
+            "result": "FAIL",
+            "cpuTime": 14636,
+            "cpuIdle": 0.6065894942261789,
+            "fps": 53.7599724748941,
+            "pageLoadTime": 28883.605000000003,
+            "numStutterEvents": 60
+        }
+    },
+    "sponzadynamicshadows": {
+        "name": "Sponza Dynamic Shadows",
+        "icon": "https://s3.amazonaws.com/owg/sponza/icon.png",
+        "screenshot": "https://s3.amazonaws.com/owg/sponza/reference.png",
+        "url": "https://s3.amazonaws.com/owg/sponza/Demos/SponzaDynamicShadows/index.html",
+        "width": 1366,
+        "height": 768,
+        "features": [
+            "webGl",
+            "domLevel3"
+        ],
+        "folderSize": 78560,
+        "timeout": 60000,
+        "credits": [
+            {
+                "category": "WebGL JavaScript Framework",
+                "name": "BabylonJS",
+                "url": "http://www.babylonjs.com/",
+                "$$hashKey": "object:88"
+            }
+        ],
+        "mobileTest": true,
+        "mobileDemo": false,
+        "desktopTest": true,
+        "desktopDemo": false,
+        "fullscreen": true,
+        "status": "success",
+        "startTime": 19465850.44,
+        "timer": "00:54",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 10711
+        },
+        "stopTime": 19520237.305,
+        "results": {
+            "totalTime": 55438,
+            "wrongPixels": 41,
+            "result": "PASS",
+            "cpuTime": 11919,
+            "cpuIdle": 0.7850008685314104,
+            "fps": 36.07607072425057,
+            "pageLoadTime": 234.11499999999978,
+            "numStutterEvents": 718
+        }
+    },
+    "skisafari": {
+        "name": "Ski Safari",
+        "icon": "https://s3.amazonaws.com/owg/skisafari/icon.jpg",
+        "screenshot": "https://s3.amazonaws.com/owg/skisafari/reference.png",
+        "url": "https://s3.amazonaws.com/owg/skisafari/index.html",
+        "width": 1366,
+        "height": 768,
+        "features": [
+            "webGl",
+            "domLevel3"
+        ],
+        "folderSize": 96512,
+        "timeout": 120000,
+        "credits": [
+            {
+                "category": "Sleepy Z Studios",
+                "name": "Ski Safari",
+                "url": "http://skisafari2.com/",
+                "$$hashKey": "object:92"
+            }
+        ],
+        "mobileTest": false,
+        "mobileDemo": false,
+        "desktopTest": true,
+        "desktopDemo": true,
+        "fullscreen": false,
+        "status": "success",
+        "startTime": 19559782.73,
+        "timer": "00:33",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 12051
+        },
+        "stopTime": 19593300.39,
+        "results": {
+            "totalTime": 34052,
+            "wrongPixels": null,
+            "result": "FAIL",
+            "cpuTime": 6721,
+            "cpuIdle": 0.8026405416052865,
+            "fps": 58.73352029191732,
+            "pageLoadTime": 37366.575000000004,
+            "numStutterEvents": 12
+        }
+    },
+    "casino": {
+        "name": "Casino",
+        "icon": "https://s3.amazonaws.com/owg/casino/icon.jpg",
+        "screenshot": "https://s3.amazonaws.com/owg/casino/reference.png",
+        "url": "https://s3.amazonaws.com/owg/casino/index.html",
+        "width": 1366,
+        "height": 768,
+        "features": [
+            "webGl",
+            "domLevel3"
+        ],
+        "folderSize": 157720,
+        "timeout": 120000,
+        "credits": [
+            {
+                "category": "PlayCanvas",
+                "name": "Casino",
+                "url": "https://playcanvas.com/industries/gambling",
+                "$$hashKey": "object:96"
+            }
+        ],
+        "mobileTest": false,
+        "mobileDemo": false,
+        "desktopTest": true,
+        "desktopDemo": true,
+        "fullscreen": true,
+        "status": "success",
+        "startTime": 19651037.285,
+        "timer": "00:39",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 12383
+        },
+        "stopTime": 19690939.165,
+        "results": {
+            "totalTime": 41323,
+            "wrongPixels": null,
+            "result": "FAIL",
+            "cpuTime": 14019,
+            "cpuIdle": 0.6607487981012129,
+            "fps": 53.23891653480961,
+            "pageLoadTime": 52921.41,
+            "numStutterEvents": 342
+        }
+    },
+    "suntemple": {
+        "name": "Sun Temple",
+        "icon": "https://s3.amazonaws.com/owg/suntemple/icon.jpg",
+        "screenshot": "https://s3.amazonaws.com/owg/suntemple/reference.png",
+        "url": "https://s3.amazonaws.com/owg/suntemple/index.html",
+        "width": 1366,
+        "height": 768,
+        "features": [
+            "optimizedJavaScript",
+            "webGl",
+            "indexedDb",
+            "domLevel3"
+        ],
+        "folderSize": 203144,
+        "timeout": 120000,
+        "credits": [
+            {
+                "category": "Unreal Engine 4.10",
+                "name": "Sun Temple",
+                "url": "https://www.unrealengine.com/",
+                "$$hashKey": "object:100"
+            }
+        ],
+        "mobileTest": false,
+        "mobileDemo": false,
+        "desktopTest": true,
+        "desktopDemo": false,
+        "fullscreen": false,
+        "status": "success",
+        "startTime": 19791722.490000002,
+        "timer": "00:56",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 14279
+        },
+        "stopTime": 19848225.815,
+        "results": {
+            "totalTime": 57382,
+            "wrongPixels": null,
+            "result": "FAIL",
+            "cpuTime": 18124,
+            "cpuIdle": 0.684148903346192,
+            "fps": 48.795742850269136,
+            "pageLoadTime": 98239.05500000001,
+            "numStutterEvents": 672
+        }
+    },
+    "heroesofparagon": {
+        "name": "Heroes of Paragon",
+        "icon": "https://s3.amazonaws.com/owg/heroesofparagon/icon.png",
+        "screenshot": "https://s3.amazonaws.com/owg/heroesofparagon/reference.png",
+        "url": "https://s3.amazonaws.com/owg/heroesofparagon/index.html",
+        "width": 1366,
+        "height": 768,
+        "features": [
+            "optimizedJavaScript",
+            "webGl",
+            "webAudio",
+            "indexedDb",
+            "domLevel3"
+        ],
+        "folderSize": 244488,
+        "timeout": 120000,
+        "credits": [
+            {
+                "category": "Unity3D",
+                "name": "EVERYDAYiPLAY",
+                "url": "https://everydayiplay.com/",
+                "$$hashKey": "object:104"
+            }
+        ],
+        "mobileTest": false,
+        "mobileDemo": false,
+        "desktopTest": true,
+        "desktopDemo": true,
+        "fullscreen": true,
+        "status": "success",
+        "startTime": 19907887.09,
+        "timer": "00:46",
+        "timeoutPercentage": 0,
+        "interval": {
+            "$$state": {
+                "status": 2,
+                "value": "canceled",
+                "processScheduled": false
+            },
+            "$$intervalId": 51476
+        },
+        "stopTime": 19954178.79,
+        "results": {
+            "totalTime": 46420,
+            "wrongPixels": null,
+            "result": "FAIL",
+            "cpuTime": 43527,
+            "cpuIdle": 0.062325795517430435,
+            "fps": 43.08492825659315,
+            "pageLoadTime": 47279.87,
+            "numStutterEvents": 314
+        }
+    }
+}
+
